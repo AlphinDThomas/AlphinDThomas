@@ -1,5 +1,14 @@
+## Hey there! 👋
 # 💫 About Me:
 I'm Alphin, second year student pursuing B.Tech in Computer science and Engineering with  an acute interest in Machine learning and Data science.<br>
+
+## 🌱 I’m currently learning
+<br>- Programming languages like Python, Java and C to enhance my technical skills.<br>- The basics of ML and Computational Linear algebra <br><br>
+
+## 📫 How to reach me: 
+<br>- alphinonline0508@gmail.com<br>- LinkedIn messaging<br><br>
+## 😄 Pronouns:
+<br>He/Him<br><br>
 
 ## 📚 Education
 
