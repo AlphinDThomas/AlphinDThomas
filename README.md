@@ -1,5 +1,5 @@
-## Hey there! 👋
-# 💫 About Me:
+## Hey there! 
+# About Me:
 I'm Alphin, second year student pursuing B.Tech in Computer science and Engineering with  an acute interest in Machine learning and Data science.<br>
 
 ## 🌱 I’m currently learning
